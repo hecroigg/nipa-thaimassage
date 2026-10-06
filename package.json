@@ -20,6 +20,6 @@
     "@types/react-dom": "latest"
   },
   "engines": {
-    "node": ">=20"
+    "node": ">=22.12"
   }
 }
